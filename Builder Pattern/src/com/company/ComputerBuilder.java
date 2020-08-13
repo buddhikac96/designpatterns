@@ -1,26 +1,26 @@
 package com.company;
 
 public class ComputerBuilder{
-    public String Cpu;
-    public String Ram;
-    public String Storage;
+    public String CPU;
+    public String RAM;
+    public String Hd;
 
-    public ComputerBuilder setCpu(String cpu) {
-        Cpu = cpu;
+    public ComputerBuilder setCPU(String CPU) {
+        this.CPU = CPU;
         return this;
     }
 
-    public ComputerBuilder setRam(String ram) {
-        Ram = ram;
+    public ComputerBuilder setRAM(String RAM) {
+        this.RAM = RAM;
         return this;
     }
 
-    public ComputerBuilder setStorage(String storage) {
-        Storage = storage;
+    public ComputerBuilder setHd(String hd) {
+        Hd = hd;
         return this;
     }
 
     public Computer Build(){
-        return new Computer(this.Cpu, this.Ram, this.Storage);
+        return new Computer(this.CPU, this.RAM, this.Hd);
     }
 }
