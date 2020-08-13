@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="261830ee-396f-482e-87a4-4f10c5a4d63a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Adapter Pattern/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Adapter Pattern/src/com/company/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Adapter Pattern/src/com/company/DrawingTool.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Adapter Pattern/src/com/company/IShape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Adapter Pattern/src/com/company/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Adapter Pattern/src/com/company/Triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Adapter Pattern/src/com/company/TriangleAdapter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Adapter Pattern/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Adapter Pattern/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -146,7 +139,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1597335169098" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1597335733359" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -206,7 +199,7 @@
       <window_info anchor="bottom" id="Version Control" order="2" />
       <window_info anchor="bottom" id="Message" order="3" />
       <window_info anchor="bottom" id="Find" order="4" />
-      <window_info active="true" anchor="bottom" id="Run" order="5" visible="true" weight="0.32960895" />
+      <window_info anchor="bottom" id="Run" order="5" weight="0.32960895" />
       <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
