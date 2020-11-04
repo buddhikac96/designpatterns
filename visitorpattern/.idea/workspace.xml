@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0038000b-a21c-40b1-841d-9b2ce0c8d3ec" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jp6aiT9HYIHBwlSObikpZ7fJny" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0038000b-a21c-40b1-841d-9b2ce0c8d3ec" name="Default Changelist" comment="" />
+      <created>1604488750326</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604488750326</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="721" y="243" width="530" height="640" key="FileChooserDialogImpl" timestamp="1604488815752">
+      <screen x="72" y="34" width="1848" height="1046" />
+    </state>
+    <state x="721" y="243" width="530" height="640" key="FileChooserDialogImpl/72.34.1848.1046@72.34.1848.1046" timestamp="1604488815752" />
+    <state x="575" y="82" width="832" height="956" key="new project wizard" timestamp="1604488817176">
+      <screen x="72" y="34" width="1848" height="1046" />
+    </state>
+    <state x="575" y="82" width="832" height="956" key="new project wizard/72.34.1848.1046@72.34.1848.1046" timestamp="1604488817176" />
+  </component>
+</project>
